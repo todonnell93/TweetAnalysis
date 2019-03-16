@@ -15,5 +15,3 @@ tweet = api.home_timeline(1)
 
 #prints tweet to console
 print(dir(tweet))
-
-##https://stackoverflow.com/questions/7714282/return-actual-tweets-in-tweepy
